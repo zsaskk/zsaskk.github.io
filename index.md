@@ -5,7 +5,7 @@
     </head>
     <body>
         <h1>欢迎来到zssakk的主页</h1>
-        <HR style="FILTER:alpha(opacity=100,finishopacity=0,style=3)" width="80%"color=#987cb9 SIZE=3>
+        <HR>
         <h2>我的别的主页</h2>
         <span><a href="https://zsaskk-rzll.blog.luogu.org/">洛谷博客</a></span><br/>
         <span><a href="https://blog.csdn.net/ATPX4689?spm=1000.2115.3001.5343">csdn博客</a></span>
