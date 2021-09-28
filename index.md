@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="zh-cn">
     <head>
         <meta charset="utf-8"/>
@@ -6,7 +6,6 @@
     </head>
     <body>
         <h1>欢迎来到zssakk的主页</h1>
-        <HR style="FILTER:alpha(opacity=100,finishopacity=0,style=2)" width="80%"color=#987cb9 SIZE=10>
         <h2>我的别的主页</h2>
         <span><a href="https://zsaskk-rzll.blog.luogu.org/">洛谷博客</a></span><br/>
         <span><a href="https://blog.csdn.net/ATPX4689?spm=1000.2115.3001.5343">csdn博客</a></span>
@@ -183,6 +182,7 @@
         <h2>联系方式</h2>
         <p>zsaskk@foxmail.com</p>
         <h2>私货</h2>
-        <a href=""让风告诉你></a>
+        <a href="https://www.bilibili.com/video/BV18X4y1N7Yh?from=search&seid=765488886427459274&spm_id_from=333.337.0.0"让风告诉你></a
+        <p>up主：hanser，鹿乃，冲浪普拉斯</p>
     </body>
 </html>
