@@ -182,7 +182,7 @@
         <h2>联系方式</h2>
         <p>zsaskk@foxmail.com</p>
         <h2>私货</h2>
-        <a href="https://www.bilibili.com/video/BV18X4y1N7Yh?from=search&seid=765488886427459274&spm_id_from=333.337.0.0"让风告诉你></a>
+        <a href="https://www.bilibili.com/video/BV18X4y1N7Yh?from=search&seid=765488886427459274&spm_id_from=333.337.0.0"让风告诉你</a>
         <p>up主：hanser，鹿乃，冲浪普拉斯</p>
     </body>
 </html>
