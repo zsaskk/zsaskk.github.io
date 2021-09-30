@@ -5,9 +5,6 @@
     </head>
     <body>
         <h1>欢迎来到zssakk的主页</h1>
-
-        <body background="https://i.loli.net/2021/09/29/MxeFkOEnu7vS6mc.png" style=" background-repeat:no-repeat ;background-size:100% 100%;
-        background-attachment: fixed;">
         <h2>我的别的主页</h2>
         <span><a href="https://zsaskk-rzll.blog.luogu.org/">洛谷博客</a></span><br/>
         <span><a href="https://blog.csdn.net/ATPX4689?spm=1000.2115.3001.5343">csdn博客</a></span>
@@ -184,12 +181,11 @@
         <h2>联系方式</h2>
         <p>zsaskk@foxmail.com</p>
         <h2>私货</h2>
-        <p>让风告诉你</p>
-        <a href="https://www.bilibili.com/video/BV18X4y1N7Yh?from=search&seid=765488886427459274&spm_id_from=333.337.0.0"><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp1.itc.cn%2Fq_70%2Fimages03%2F20210207%2F2766c5538bbb412fa0b8538f6ac14fed.jpeg&refer=http%3A%2F%2Fp1.itc.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1635502675&t=bf9061b9f31e2f3b05c20c31cd5c42c6"height="128"width="227"></a>
-        <br/>
+        <a href="https://www.bilibili.com/video/BV18X4y1N7Yh?from=search&seid=765488886427459274&spm_id_from=333.337.0.0">让风告诉你</a>
+        <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp1.itc.cn%2Fq_70%2Fimages03%2F20210207%2F2766c5538bbb412fa0b8538f6ac14fed.jpeg&refer=http%3A%2F%2Fp1.itc.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1635502675&t=bf9061b9f31e2f3b05c20c31cd5c42c6" alt>
         <p>up主：hanser，鹿乃，冲浪普拉斯</p>
-        <a href="https://space.bilibili.com/11073/?spm_id_from=333.999.0.0"><img src="https://i0.hdslb.com/bfs/face/0a9546e9733bfb60d3000c108f0db26156d8d430.jpg@128w_128h_1o.webp"height="128"width="128"></a>
-        <a href="https://space.bilibili.com/316381099/?spm_id_from=333.999.0.0"><img src="https://i1.hdslb.com/bfs/face/ed92f18dfe3b992bef1cfe84db7e12fae154e853.jpg@128w_128h_1o.webp"height="128"width="128"></a>
-        <a href="https://space.bilibili.com/290548469/?spm_id_from=333.999.0.0"><img src="https://i2.hdslb.com/bfs/face/a763fbb659c264de23e8a905d35518c2395add05.jpg@128w_128h_1o.webp"height="128"width="128"></a>
+        <img src="https://i0.hdslb.com/bfs/face/0a9546e9733bfb60d3000c108f0db26156d8d430.jpg@128w_128h_1o.webp" alt>
+        <img src="https://i1.hdslb.com/bfs/face/ed92f18dfe3b992bef1cfe84db7e12fae154e853.jpg@128w_128h_1o.webp" alt> 
+        <img src="https://i2.hdslb.com/bfs/face/a763fbb659c264de23e8a905d35518c2395add05.jpg@128w_128h_1o.webp" alt>
     </body>
 </html>
